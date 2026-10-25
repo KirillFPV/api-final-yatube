@@ -1,3 +1,1 @@
-from django.shortcuts import render
-
-# Create your views here.
+"""Представления REST API реализованы в приложении api."""
